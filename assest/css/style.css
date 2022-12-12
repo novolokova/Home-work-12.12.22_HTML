@@ -1,0 +1,57 @@
+body {
+    font-family: sans-serif;
+    color: grey;
+    padding: 3rem;
+    line-height: 1.5;
+}
+
+section {
+    text-align: center;
+}
+
+.photo-summary {
+    border-radius: 50%;
+}
+
+.text-modify {
+    font-weight: bold;
+    color: black;
+}
+
+h1 {
+    font-size: 50px;
+}
+
+a {
+    text-decoration: none;
+    color: gray;
+}
+
+.border-h2 {
+    border-top: ridge 6px;
+    border-bottom: ridge 3px;
+}
+
+.experience {
+    font-weight: normal;
+}
+
+.p-size {
+    font-size: 15px;
+
+}
+
+.h2-size {
+    font-size: 25px;
+
+}
+
+li {
+    list-style-type: none;
+}
+
+li:before {
+    color: black;
+    content: "•";
+    padding-right: 7px;
+}
